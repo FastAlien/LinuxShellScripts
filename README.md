@@ -1,2 +1,3 @@
 # LinuxShellScripts
-Useful Linux shell scripts
+
+Reposition containing collection of my useful Linux shell scripts.
